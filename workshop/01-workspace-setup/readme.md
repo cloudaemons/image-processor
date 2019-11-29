@@ -1,4 +1,4 @@
-# 01. WORKSPACE PREPARATION
+# 01 WORKSPACE PREPARATION
 
 ## LAB PURPOSE
 
@@ -6,6 +6,7 @@ Create developer tools for the workshop
 
 ## DEFINITIONS
 ----
+
 ### CLOUD9
 
 AWS Cloud9 is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser. It includes a code editor, debugger, and terminal.
