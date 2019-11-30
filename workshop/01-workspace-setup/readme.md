@@ -32,7 +32,7 @@ Amazon Simple Storage Service (Amazon S3) is an object storage service that offe
 Clone the repository to your **Cloud9** environment and start working on code. Run the following command:
 
 ```bash
-  git clone https://github.com/abaiowski/image-processor
+  git clone https://github.com/cloudaemons/image-processor
 ```
 
 ### CREATE BUCKET S3 FOR ARTIFACTS
