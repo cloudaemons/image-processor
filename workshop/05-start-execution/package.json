@@ -13,7 +13,7 @@
   "repository": "https://github.com/abajowski",
   "dependencies": {
     "lodash": "^4.17.15",
-    "sharp": "^0.23.3"
+    "sharp": "^0.30.5"
   },
   "devDependencies": {
     "ava": "^2.4.0",
